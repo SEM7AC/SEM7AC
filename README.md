@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christopher (SEM7AC)
+# 👋 Hi, I'm Christopher Semler (SEM7AC)
 
 I’m a retired Army veteran who dedicated my career to aviation maintenance. At 40, I’ve embarked on an exciting new journey—transitioning into software engineering! My programming journey began with QBASIC and expanded to C and C++. Now, I’m focused on mastering C#, exploring modern frameworks like .NET MAUI and WinUI, and building innovative, user-friendly applications.
 
